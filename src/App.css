@@ -4,6 +4,7 @@
 
 .flex-container {
   display: flex;
+  justify-content: center;
 }
 
 .flex-container img{
